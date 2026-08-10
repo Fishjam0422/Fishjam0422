@@ -1,7 +1,6 @@
 ## Heya :3
 
-I have no idea how to navigate github cause im a chud, just look at my strawpage <3
-I really love my gf :p 
+I have no idea how to navigate github cause im a chud, just look at my strawpage <3 and uhh I really love my gf!! 
 <!--
 **Fishjam0422/Fishjam0422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
