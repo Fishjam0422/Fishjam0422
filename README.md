@@ -1,6 +1,7 @@
 ## Heya :3
 <img width="536" height="502" alt="HRq4nTKaUAA3EUZ" src="https://github.com/user-attachments/assets/f7727039-2174-45cb-8e99-728952f0a4ad" />
-<img width="438" height="380" alt="Screenshot 2026-09-09 at 22 41 53" src="https://github.com/user-attachments/assets/17a376a4-23d3-4972-be55-7204c123c6fa" />
+<img width="461" height="442" alt="Screenshot 2026-09-09 at 22 42 18" src="https://github.com/user-attachments/assets/3025843b-61b8-4fc9-866b-9126e408f909" />
+
 
 
 <!--
