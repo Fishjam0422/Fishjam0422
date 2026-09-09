@@ -1,6 +1,6 @@
 ## Heya :3
+<img width="736" height="702" alt="HRq4nTKaUAA3EUZ" src="https://github.com/user-attachments/assets/5da8a86c-dca1-4bc5-bb78-e018e1a40355" />
 
-I have no idea how to navigate github cause im a chud, just look at my strawpage <3 and uhh I really love my gf!! 
 <!--
 **Fishjam0422/Fishjam0422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
