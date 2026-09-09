@@ -1,5 +1,6 @@
 ## Heya :3
-<img width="536" height="502" alt="HRq4nTKaUAA3EUZ" src="https://github.com/user-attachments/assets/5da8a86c-dca1-4bc5-bb78-e018e1a40355" />
+<img width="536" height="502" alt="HRq4nTKaUAA3EUZ" src="https://github.com/user-attachments/assets/5da8a86c-dca1-4bc5-bb78-e018e1a40355" /> <img width="589" height="656" alt="Screenshot 2026-09-09 at 22 39 39" src="https://github.com/user-attachments/assets/607f0190-64e4-4439-b449-505630c96229" />
+
 
 <!--
 **Fishjam0422/Fishjam0422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
