@@ -1,6 +1,6 @@
 
 <div align="center"> 
-§aqua 𓆞 .⋆𓆝 𓆟 𓆞⋆. 𓆝⋆. 𓆞 .⋆𓆝 𓆟 𓆞⋆. 𓆝 </code> 
+$${\color{red} 𓆞 .⋆𓆝 𓆟 𓆞⋆. 𓆝⋆. 𓆞 .⋆𓆝 𓆟 𓆞⋆. 𓆝 </code> 
 <div>
    
 <div>
