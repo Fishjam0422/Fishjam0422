@@ -1,8 +1,9 @@
 <div align="center"> 
  <h2> "ɴᴇᴠᴇʀ ʟᴇᴀᴠɪɴɢ ꜰᴏʀᴇᴠᴇʀ."</h2>
 <div align="center"> 
-<img width="436" height="402" alt="HRq4nTKaUAA3EUZ" src="https://github.com/user-attachments/assets/f7727039-2174-45cb-8e99-728952f0a4ad" />
-<img width="361" height="342" alt="Screenshot 2026-09-09 at 22 42 18" src="https://github.com/user-attachments/assets/3025843b-61b8-4fc9-866b-9126e408f909" />
+<img width="236" height="302" alt="HRq4nTKaUAA3EUZ" src="https://github.com/user-attachments/assets/f7727039-2174-45cb-8e99-728952f0a4ad" />
+<div align="center"> 
+<img width="161" height="242" alt="Screenshot 2026-09-09 at 22 42 18" src="https://github.com/user-attachments/assets/3025843b-61b8-4fc9-866b-9126e408f909" />
 
 
 
