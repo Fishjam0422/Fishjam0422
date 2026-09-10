@@ -2,7 +2,8 @@
 <div align="center"> 
 𓆞 .⋆𓆝 𓆟 𓆞⋆. 𓆝⋆. 𓆞 .⋆𓆝 𓆟 𓆞⋆. 𓆝
 <div>
-  <div>
+   
+<div>
 
 "ɴᴇᴠᴇʀ ʟᴇᴀᴠɪɴɢ ꜰᴏʀᴇᴠᴇʀ."
 <div align="center"> 
