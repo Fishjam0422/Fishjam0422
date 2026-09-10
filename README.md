@@ -9,7 +9,7 @@
 <div align="center"> 
 <img width="250" height="250" alt="HRq4nlQbMAAdgxZ" src="https://github.com/user-attachments/assets/1bcc5dab-7853-4a68-ae75-be8062857b17" />
 <div align="center"> 
-<img width="291" height="278" alt="Screenshot 2026-09-11 at 01 35 07" src="https://github.com/user-attachments/assets/b3c67b08-982b-40cc-889f-a996651e018a" />
+<img width="281" height="268" alt="Screenshot 2026-09-11 at 01 35 07" src="https://github.com/user-attachments/assets/b3c67b08-982b-40cc-889f-a996651e018a" />
 
 
 <!--
