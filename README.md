@@ -1,6 +1,6 @@
 
 <div align="center"> 
-   $${\color{aqua} 𓆞 .⋆𓆝 𓆟 𓆞⋆. 𓆝⋆. 𓆞 .⋆𓆝 𓆟 𓆞⋆. 𓆝$$
+   $${\color{aqua} 𓆞 .⋆𓆝 𓆟 𓆞⋆. 𓆝⋆. 𓆞 .⋆𓆝 𓆟 𓆞⋆. 𓆝 $$
 <div> 
    
 <div>
