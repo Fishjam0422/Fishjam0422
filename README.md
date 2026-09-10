@@ -1,6 +1,6 @@
 
 <div align="center"> 
-<code style="color : aqua">< 𓆞 .⋆𓆝 𓆟 𓆞⋆. 𓆝⋆. 𓆞 .⋆𓆝 𓆟 𓆞⋆. 𓆝 </code> 
+§aqua 𓆞 .⋆𓆝 𓆟 𓆞⋆. 𓆝⋆. 𓆞 .⋆𓆝 𓆟 𓆞⋆. 𓆝 </code> 
 <div>
    
 <div>
