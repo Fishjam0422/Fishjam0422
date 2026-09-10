@@ -2,6 +2,8 @@
 <div align="center"> 
 𓆞 .⋆𓆝 𓆟 𓆞⋆. 𓆝⋆. 𓆞 .⋆𓆝 𓆟 𓆞⋆. 𓆝
 <div>
+  <div>
+
 "ɴᴇᴠᴇʀ ʟᴇᴀᴠɪɴɢ ꜰᴏʀᴇᴠᴇʀ."
 <div align="center"> 
 <img width="236" height="232" alt="HRq4nTKaUAA3EUZ" src="https://github.com/user-attachments/assets/f7727039-2174-45cb-8e99-728952f0a4ad" />
