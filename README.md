@@ -1,6 +1,6 @@
 
 <div align="center"> 
-   $${\color{lightblue}𓆞 .⋆𓆝 𓆟 𓆞⋆. 𓆝⋆. 𓆞 .⋆𓆝 𓆟 𓆞⋆. 𓆝}$$
+   $$ {\color{lightblue}𓆞 .⋆𓆝 𓆟 𓆞⋆. 𓆝⋆. 𓆞 .⋆𓆝 𓆟 𓆞⋆. 𓆝}$$
 <div> 
 <br>      
 
