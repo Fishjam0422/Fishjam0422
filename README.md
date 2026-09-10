@@ -1,5 +1,5 @@
 <div align="center"> 
- <h2> "ɴᴇᴠᴇʀ ʟᴇᴀᴠɪɴɢ ꜰᴏʀᴇᴠᴇʀ."</h2>
+"ɴᴇᴠᴇʀ ʟᴇᴀᴠɪɴɢ ꜰᴏʀᴇᴠᴇʀ."
 <div align="center"> 
 <img width="236" height="232" alt="HRq4nTKaUAA3EUZ" src="https://github.com/user-attachments/assets/f7727039-2174-45cb-8e99-728952f0a4ad" />
 <align="center"> 
