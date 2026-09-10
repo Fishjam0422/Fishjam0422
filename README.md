@@ -1,7 +1,8 @@
 
 <div align="center"> 
  
-   $\color{aqua}{\textsf{𓆝 𓆟 𓆞⋆. 𓆝⋆. 𓆞 .⋆𓆝 𓆟 𓆞⋆. 𓆝}}$
+   <h3> $\color{aqua}{\textsf{𓆝 𓆟 𓆞⋆. 𓆝⋆. 𓆞 .⋆𓆝 𓆟 𓆞⋆. 𓆝}}$ </h3>
+
 <div> 
 "ɴᴇᴠᴇʀ ʟᴇᴀᴠɪɴɢ ꜰᴏʀᴇᴠᴇʀ."
 <div>
