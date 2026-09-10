@@ -19,7 +19,11 @@
    <div>
 <img width="300" height="40" alt="text" src="https://github.com/user-attachments/assets/ee12b0f2-1318-4843-a001-6fbf3290ced1" />
 
+  <div>
+<h3>ᴀᴀ²³ ˗ˋˏ♡ˎˊ˗ ɢʀ⁶³</h3>
+
 [𝐚𝐭𝐚](https://fishjam.atabook.org/) [𝐬𝐭𝐫𝐚𝐰](https://fishjam.straw.page/)
+
 
 
 
