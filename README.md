@@ -5,7 +5,8 @@
 <div align="center"> 
 <img width="236" height="232" alt="HRq4nTKaUAA3EUZ" src="https://github.com/user-attachments/assets/f7727039-2174-45cb-8e99-728952f0a4ad" />
 <align="center"> 
-<img width="191" height="242" alt="Screenshot 2026-09-09 at 22 42 18" src="https://github.com/user-attachments/assets/3025843b-61b8-4fc9-866b-9126e408f909" />
+<div align="center"> 
+<img width="250" height="250" alt="HRq4nlQbMAAdgxZ" src="https://github.com/user-attachments/assets/1bcc5dab-7853-4a68-ae75-be8062857b17" />
 
 
 
