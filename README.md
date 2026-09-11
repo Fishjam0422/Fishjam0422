@@ -26,7 +26,7 @@
   <div>
 <h3>ᴀᴀ²³ ˗ˋˏ♡ˎˊ˗ ɢʀ⁶³</h3>
 
-[𝐚𝐭𝐚](https://fishjam.atabook.org/) [𝐬𝐭𝐫𝐚𝐰](https://fishjam.straw.page/)
+[𝐚𝐭𝐚](https://fishjam.atabook.org/) ・ [𝐬𝐭𝐫𝐚𝐰](https://fishjam.straw.page/)
 
 
 
