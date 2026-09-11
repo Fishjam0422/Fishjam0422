@@ -24,7 +24,7 @@
 
 
   <div>
-<h3> $\color{#14e3fa}{\textsf{ᴀᴀ²³ ˗ˋˏ♡ˎˊ˗ ɢʀ⁶³}}$ </h3>
+<h3> $\color{#14e3fa}{\textsf{ᴀᴀ²³ \color{#144afa}˗ˋˏ♡ˎˊ˗ \color {#14e3fa}ɢʀ⁶³}}$ </h3>
    
 [𝐚𝐭𝐚](https://fishjam.atabook.org/) ・ [𝐬𝐭𝐫𝐚𝐰](https://fishjam.straw.page/)
 
