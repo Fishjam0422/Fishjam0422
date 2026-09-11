@@ -11,13 +11,13 @@
 <div align="center"> 
 <img width="236" height="232" alt="HRq4nTKaUAA3EUZ" src="HRq4nTKaUAA3EUZ.jpg" />
 <align="center"> 
-<img width="250" height="250" alt="HRq4nlQbMAAdgxZ" src="649606817-b3c67b08-982b-40cc-889f-a996651e018a.png" />
-<img width="281" height="268" alt="ss" src="https://github.com/user-attachments/assets/b3c67b08-982b-40cc-889f-a996651e018a" />
+<img width="250" height="250" alt="HRq4nlQbMAAdgxZ" src="HRq4nlQbMAAdgxZ.jpg" />
+<img width="299" height="298" alt="ss" src="649606817-b3c67b08-982b-40cc-889f-a996651e018a.png" />
 <align="center"> 
    <div>
 <br>      
    <div>
-<img width="300" height="40" alt="text" src="https://github.com/user-attachments/assets/ee12b0f2-1318-4843-a001-6fbf3290ced1" />
+<img width="360" height="100" alt="text" src="649609875-ee12b0f2-1318-4843-a001-6fbf3290ced1.gif" />
 
   <div>
 <h3>ᴀᴀ²³ ˗ˋˏ♡ˎˊ˗ ɢʀ⁶³</h3>
