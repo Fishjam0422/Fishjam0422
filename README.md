@@ -1,10 +1,10 @@
 
 <div align="center"> 
  
-   <h3> $\color{aqua}{\textsf{𓆝 𓆟 𓆞⋆. 𓆝⋆. 𓆞 .⋆𓆝 𓆟 𓆞⋆. 𓆝}}$ </h3>
+   <h3> $\color{#14e3fa}{\textsf{𓆝 𓆟 𓆞⋆. 𓆝⋆. 𓆞 .⋆𓆝 𓆟 𓆞⋆.}}$ </h3>
 
 <div> 
-"ɴᴇᴠᴇʀ ʟᴇᴀᴠɪɴɢ ꜰᴏʀᴇᴠᴇʀ."
+"ɪᴍ ʟᴇᴀᴠɪɴɢ. ꜰᴏʀᴠᴇᴠᴇʀ? ɴᴇᴠᴇʀ ʟᴇᴀᴠɪɴɢ ꜰᴏʀᴇᴠᴇʀ".
 <div>
 <br>      
 
@@ -24,8 +24,8 @@
 
 
   <div>
-<h3>ᴀᴀ²³ ˗ˋˏ♡ˎˊ˗ ɢʀ⁶³</h3>
-
+<h3> $\color{#14e3fa}{\textsf{ᴀᴀ²³ ˗ˋˏ♡ˎˊ˗ ɢʀ⁶³}}$ </h3>
+   
 [𝐚𝐭𝐚](https://fishjam.atabook.org/) ・ [𝐬𝐭𝐫𝐚𝐰](https://fishjam.straw.page/)
 
 
