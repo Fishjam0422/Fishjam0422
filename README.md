@@ -4,8 +4,8 @@
    <h3> $\color{#14e3fa}{\textsf{𓆝 𓆟 𓆞⋆. 𓆝⋆. 𓆞 .⋆𓆝 𓆟 𓆞⋆.}}$ </h3>
 <div> 
 <align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=260&height=20&lines=%22%C9%AA%E1%B4%8D+%CA%9F%E1%B4%87%E1%B4%80%E1%B4%A0%C9%AA%C9%B4%C9%A2.%22;%22%EA%9C%B0%E1%B4%8F%CA%80%E1%B4%A0%E1%B4%87%E1%B4%A0%E1%B4%87%CA%80%3F%22;%22%C9%B4%E1%B4%87%E1%B4%A0%E1%B4%87%CA%80+%CA%9F%E1%B4%87%E1%B4%80%E1%B4%A0%C9%AA%C9%B4%C9%A2+%EA%9C%B0%E1%B4%8F%CA%80%E1%B4%87%E1%B4%A0%E1%B4%87%CA%80.%22" alt="Typing SVG" /></a>
-<br>  <br>    
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%22%C9%AA%E1%B4%8D+%CA%9F%E1%B4%87%E1%B4%80%E1%B4%A0%C9%AA%C9%B4%C9%A2.%22;+%22%EA%9C%B0%E1%B4%8F%CA%80%E1%B4%A0%E1%B4%87%E1%B4%A0%E1%B4%87%CA%80%3F%22;%22%C9%B4%E1%B4%87%E1%B4%A0%E1%B4%87%CA%80+%CA%9F%E1%B4%87%E1%B4%80%E1%B4%A0%C9%AA%C9%B4%C9%A2+%EA%9C%B0%E1%B4%8F%CA%80%E1%B4%87%E1%B4%A0%E1%B4%87%CA%80.%22" alt="Typing SVG" /></a>
+ <br>  <br>    
 <div align="center"> 
 <img width="236" height="232" alt="HRq4nTKaUAA3EUZ" src="HRq4nTKaUAA3EUZ.jpg" />
 <align="center"> 
